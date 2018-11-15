@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication104/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication104/Form1.vb))
+* [Program.cs](./CS/WindowsApplication104/Program.cs) (VB: [Program.vb](./VB/WindowsApplication104/Program.vb))
+<!-- default file list end -->
 # How to add the close button to the NavBarControl
 
 
